@@ -13,7 +13,6 @@ experience.
 2. Navigate into the repository: cd Foody-Zone-Webapp
 3. Install dependencies: npm install
 4. Start the project: npm run dev
-5. 
+
 # Video Overview
 https://github.com/user-attachments/assets/12a3896f-c263-4a9e-845e-1e3093d69eea
-
